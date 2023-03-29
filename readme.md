@@ -1,5 +1,5 @@
 # Ruby Run
-## My attempt at creating my own 2D game engine + game from scratch
+### My attempt at creating a 2D game engine + game from scratch
 
 Play as our dog Ruby as you look to jump over the lettuce and collect donuts!
 
